@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[cfpeng]]></title>
-  
+  <subtitle><![CDATA[人生不该设限]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://cfpeng.github.io/"/>
   <updated>2015-09-10T03:35:01.400Z</updated>
